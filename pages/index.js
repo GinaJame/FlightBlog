@@ -19,7 +19,7 @@ export default function Home() {
       </main>
       <footer>
           <span>
-            Powered by{' '}<a href="https://robbie.dev" target="_blank" rel="noreferrer">Robbie from MLH  and addapted by Gina c:</a>
+            Powered by{' '}<a href="https://github.com/robzwolf/major-league-packing" target="_blank" rel="noreferrer">Robbie from MLH  and adapted by Gina c:</a>
           </span>
       </footer>
 
